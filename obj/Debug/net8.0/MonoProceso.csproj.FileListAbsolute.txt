@@ -1,0 +1,15 @@
+D:\Files\SoftwareDev\C#\MonoProceso\bin\Debug\net8.0\MonoProceso.exe
+D:\Files\SoftwareDev\C#\MonoProceso\bin\Debug\net8.0\MonoProceso.deps.json
+D:\Files\SoftwareDev\C#\MonoProceso\bin\Debug\net8.0\MonoProceso.runtimeconfig.json
+D:\Files\SoftwareDev\C#\MonoProceso\bin\Debug\net8.0\MonoProceso.dll
+D:\Files\SoftwareDev\C#\MonoProceso\bin\Debug\net8.0\MonoProceso.pdb
+D:\Files\SoftwareDev\C#\MonoProceso\obj\Debug\net8.0\MonoProceso.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\SoftwareDev\C#\MonoProceso\obj\Debug\net8.0\MonoProceso.AssemblyInfoInputs.cache
+D:\Files\SoftwareDev\C#\MonoProceso\obj\Debug\net8.0\MonoProceso.AssemblyInfo.cs
+D:\Files\SoftwareDev\C#\MonoProceso\obj\Debug\net8.0\MonoProceso.csproj.CoreCompileInputs.cache
+D:\Files\SoftwareDev\C#\MonoProceso\obj\Debug\net8.0\MonoProceso.sourcelink.json
+D:\Files\SoftwareDev\C#\MonoProceso\obj\Debug\net8.0\MonoProceso.dll
+D:\Files\SoftwareDev\C#\MonoProceso\obj\Debug\net8.0\refint\MonoProceso.dll
+D:\Files\SoftwareDev\C#\MonoProceso\obj\Debug\net8.0\MonoProceso.pdb
+D:\Files\SoftwareDev\C#\MonoProceso\obj\Debug\net8.0\MonoProceso.genruntimeconfig.cache
+D:\Files\SoftwareDev\C#\MonoProceso\obj\Debug\net8.0\ref\MonoProceso.dll
